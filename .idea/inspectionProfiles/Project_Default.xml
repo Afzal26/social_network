@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="backend.discord_bot.discord_interface.audiocontroller.discord_bot" />
+          <option value="backend.discord_bot.discord_interface.playlist.discord_bot" />
+          <option value="backend.discort_bot.models.SoundClip" />
+          <option value="SoundClip" />
+          <option value="backend.backend.roles.default_roles" />
+          <option value="backend.discort_bot.discort_interface.run_bot.bot" />
+          <option value="backend.discort_bot.models.Guild" />
+          <option value="backend.manage_user.models.Guild" />
+          <option value="backend.discort_bot.serializers" />
+          <option value="backend.discort_bot.models.Tag" />
+          <option value="django.core.exeptions" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
